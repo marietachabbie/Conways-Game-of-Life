@@ -1,8 +1,8 @@
-# life-py
+# Conway's Game of Life
 Conway's Game of Life console-based test project 
 
-# Running
+# How to run
 Execute as:
 ```
-(venv) $ python3 Conway.py
+python3 Conway.py
 ```
